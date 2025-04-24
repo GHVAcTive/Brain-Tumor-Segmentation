@@ -4,7 +4,7 @@
 ![Sample Segmentation Placeholder](https://via.placeholder.com/600x200.png?text=Sample+Segmentation+Result)  
 *Replace with an actual image from your results (e.g., Imgur or local upload)*
 
----
+-----
 
 ## 🎯 Problem Statement
 
